@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689323799 source:d:\studies\ucsc\1st year\semester 2\scs1208- data structures & algorithm ii\lseg\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<utility>
+	<unordered_map>
+	<queue>
+	<chrono>
+	<algorithm>
+
