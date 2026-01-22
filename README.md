@@ -1,8 +1,8 @@
-# 🌸 Flower Exchange - Order Matching Engine (2023)
+# Flower Exchange - Order Matching Engine (2023)
 
 A C++ implementation of an order matching engine for a flower trading exchange system. This project simulates a real-time trading platform that processes buy and sell orders for various flower instruments.
 
-## 📋 Overview
+## Overview
 
 The Flower Exchange is an order matching system that:
 
@@ -156,7 +156,7 @@ Execution flow:
    - `aa13`: Status **Fill** (fully matched)
    - Trade executed at seller's price (1.00)
 
-## ⚡ Performance
+## Performance
 
 The application measures and displays execution time in milliseconds using `chrono::high_resolution_clock`.
 
